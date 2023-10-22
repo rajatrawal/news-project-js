@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 38,
+"articles": [
+{
+"source": {
+"id": "espn-cric-info",
+"name": "ESPN Cric Info"
+},
+"author": "Karthik Krishnaswamy",
+"title": "Tim Southee and Kyle Jamieson leave West Indies staring at massive deficit - ESPNcricinfo.com",
+"description": "Henry Nicholls and Neil Wagner brought up their respective highest scores earlier in the day",
+"url": "https://www.espncricinfo.com/story/nz-vs-wi-2nd-test-tim-southee-and-kyle-jamieson-leave-west-indies-staring-at-massive-deficit-1243561",
+"urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/313700/313750.5.jpg",
+"publishedAt": "2020-12-12T06:29:32Z",
+"content": "West Indies 124 for 8 (Blackwood 69, Jamieson 5-34, Southee 3-29) trail New Zealand 460 (Nicholls 174, Wagner 66*, Gabriel 3-93, Joseph 3-109) by 336 runs\r\nWait until both teams have bowled before yo… [+6930 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Zoom"
+},
+"author": "TN Tech Desk",
+"title": "Solar eclipse 2020: Check date, timings of the last eclipse of the year - Times Now",
+"description": "The celestial event takes place when the new Moon passes between the Sun and the Earth.",
+"url": "https://www.timesnownews.com/technology-science/article/solar-eclipse-2020-check-date-timings-of-the-last-eclipse-of-the-year/693540",
+"urlToImage": "https://imgk.timesnownews.com/story/Solar_eclipse_istock_0_1.jpg?tr=w-560,h-292,fo-top",
+"publishedAt": "2020-12-12T05:26:00Z",
+"content": "<ul><li>The last solar eclipse of 2020 will happen on December 14 </li></ul>\r\n<ul><li>The celestial event would start at 7:03 pm</li></ul>\r\nThe last solar eclipse of 2020 will happen on December 14 a… [+1196 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hindustan Times"
+},
+"author": "Gerard de Souza",
+"title": "Fighter pilot killed in MIG-29K crash laid to rest with full military honours - Hindustan Times",
+"description": "The crash took place while Singh, posted at Goa, was flying a trainer aircraft along with a younger pilot.The aircraft developed a technical fault forcing both the pilots to eject.",
+"url": "https://www.hindustantimes.com/india-news/fighter-pilot-killed-in-mig-29k-crash-laid-to-rest-with-full-military-honours/story-obPST65dNKQXe5Ihf0JWeJ.html",
+"urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/12/12/Pictures/_e8fad590-3c32-11eb-8fc8-15ab4209080e.JPG",
+"publishedAt": "2020-12-12T04:36:04Z",
+"content": "The Indian Navy bid farewell to slain fighter pilot Commander Nishant Singh who was killed in a MiG 29K fighter that crashed into the Arabian Sea off the coast of Goa with full military honours in Go… [+1422 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Indian Express"
+},
+"author": "Sports Desk",
+"title": "India vs Australia A 2nd Practice Match, Day 2 Live Cricket Score: Gill leads India’s steady start - The Indian Express",
+"description": "India vs Australia A, IND vs AUS A 2nd Practice Live Cricket Score Streaming Online Updates: This day-night game in Sydney will allow the players to get a feel of conditions during India’s first-ever overseas day-night Test.",
+"url": "https://indianexpress.com/article/sports/cricket/india-vs-australia-a-2nd-practice-match-live-cricket-score-day-2-7101375/",
+"urlToImage": "https://images.indianexpress.com/2020/12/AUS-A.png",
+"publishedAt": "2020-12-12T04:26:26Z",
+"content": "India vs Australia A Practice Live Score: This is the second tour match. (Twitter/BCCI)India vs Australia A 2nd Practice Live Cricket Score: A ruthless Indian seam attack by Jasprit Bumrah and Mohamm… [+456 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "NDTV News"
+},
+"author": null,
+"title": "Farmers To Block Delhi-Jaipur Highway As Protests Intensify: 10 Facts - NDTV",
+"description": "Farmers' protest is set to intensify today as they plan to block Delhi-Jaipur highway, a day after one of the 32 protesting unions moved the Supreme Court against the centre's contentious agricultural laws. The farmers' leaders have dismissed claims that \"ult…",
+"url": "https://www.ndtv.com/india-news/farmers-to-block-delhi-jaipur-highway-as-protests-intensify-10-facts-2337592",
+"urlToImage": "https://c.ndtvimg.com/2020-12/l9e8c97k_farmers-protest_625x300_09_December_20.jpg",
+"publishedAt": "2020-12-12T04:20:00Z",
+"content": "<li>Two thousand policemen are on duty in Gurgaon and 3,500 policemen are on duty in Faridabad to stop the protesters, officials have said. The two cities in Haryana share borders with Delhi.\r\n</li><… [+2679 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hindustan Times"
+},
+"author": "hindustantimes.com | Edited by Poulomi Ghosh",
+"title": "India records 30,006 new Covid-19 cases in 24 hours, total tally crosses 9.8 million - Hindustan Times",
+"description": "The number of fresh cases saw a marginal increase on Saturday, a day after India achieved the landmark of bringing active caseload to 3.63 lakh after 146 days.",
+"url": "https://www.hindustantimes.com/india-news/india-records-30-006-new-covid-19-cases-in-24-hours-total-tally-crosses-9-8-million/story-dh78D6JsftOo6oOqZco51M.html",
+"urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/12/12/Pictures/hindustan-coronavirus-december-infection-collects-hospital-gurugram_70b9feba-3c2f-11eb-b180-736642f23257.jpg",
+"publishedAt": "2020-12-12T04:09:33Z",
+"content": "India recorded 30,006 fresh Covid-19 infections in the last 24 hours, registering a 2 per cent increase from Friday’s fresh infection tally. With 33,494 recoveries and 442 deaths recorded in the same… [+1462 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "Ch Sushil Rao",
+"title": "Indian-American with roots in Telangana in Nasa moon mission team - Times of India",
+"description": "HYDERABAD: Four years from now, an Indian-American with family roots in Telangana's Mahbubnagar district may well be walking on the moon.",
+"url": "https://timesofindia.indiatimes.com/city/hyderabad/indian-american-with-roots-in-telangana-in-nasa-moon-mission-team/articleshow/79690464.cms",
+"urlToImage": "https://static.toiimg.com/thumb/msid-79690490,width-1070,height-580,imgsize-105812,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+"publishedAt": "2020-12-12T04:05:00Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "Hindustan Times"
+},
+"author": "hindustantimes.com",
+"title": "‘He will bat at No.4 after Virat Kohli leaves’: Sunil Gavaskar names his pick ahead of India vs Australia... - Hindustan Times",
+"description": "India vs Australia: Legendary cricketers Sunil Gavaskar, Brian Lara and Ricky Ponting talked about the importance of Kohli and the need for India to find someone to bat at No.4 for as many as three Tests.",
+"url": "https://www.hindustantimes.com/cricket/he-will-bat-at-no-4-after-virat-kohli-leaves-sunil-gavaskar-names-his-pick-ahead-of-india-vs-australia-tests/story-cNlv9DJi1696RCBvsF7aIL.html",
+"urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/12/12/Pictures/_3fd2e6dc-3c2e-11eb-8fc8-15ab4209080e.jpg",
+"publishedAt": "2020-12-12T04:01:31Z",
+"content": "Virat Kohli’s paternity leave had become a huge topic of discussion in the lead-up to India’s tour of Australia. Now with less than a week to go before the first of the four Tests in the Border-Gavas… [+2110 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hindustan Times"
+},
+"author": "HT Correspondent",
+"title": "Bollywood actor Arya Banerjee found dead at posh south Kolkata home - Hindustan Times",
+"description": "Devdutta Banerjee, whose screen name was Arya Banerjee, lived alone in her house with a dog. Her sister lives in Singapore.",
+"url": "https://www.hindustantimes.com/bollywood/bollywood-actor-arya-banerjee-found-dead-at-posh-south-kolkata-home/story-4FaFwx2ohThp729teABgPK.html",
+"urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/12/12/Pictures/_ac178bfa-3c2d-11eb-8fc8-15ab4209080e.jpg",
+"publishedAt": "2020-12-12T03:59:10Z",
+"content": "A 35-year-old actor Arya Banerjee, who appeared in at least two Bollywood films including The Dirty Picture, was found dead at her residence at a posh south Kolkata neighbourhood on Friday. \r\nPolice … [+808 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "NDTV News"
+},
+"author": null,
+"title": "Rajinikanth Turns 70 Ahead Of Party Launch, Prime Minister Wishes Him - NDTV",
+"description": "Tamil actor and budding politician Rajinikanth celebrates his 70th birthday today, only weeks ahead of the launch of his political party on December 31, making it a momentous occasion not merely for the movie icon but also for Tamil Nadu and Indian national p…",
+"url": "https://www.ndtv.com/india-news/rajinikanth-birthday-prime-minister-wishes-actor-ahead-of-his-party-launch-2337597",
+"urlToImage": "https://c.ndtvimg.com/2020-12/chuuj348_rajinikanth-birthday-rajinikanth-political-party-rajinikanth-political-plunge_625x300_12_December_20.jpg",
+"publishedAt": "2020-12-12T03:52:35Z",
+"content": "Rajinikanth's 70th birthday comes weeks ahead of his political party's launch.\r\nChennai: Tamil actor and aspiring politician Rajinikanth celebrates his 70th birthday today, only weeks ahead of the la… [+2069 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hindustan Times"
+},
+"author": "Reuters",
+"title": "India vs Australia: Marcus Harris drafted into injury-hit Australia squad - Hindustan Times",
+"description": "Marcus Harris’s elevation came after another test hopeful, Cameron Green, suffered a concussion after being struck on the head in a tour game against India on Friday.",
+"url": "https://www.hindustantimes.com/cricket/india-vs-australia-marcus-harris-drafted-into-injury-hit-australia-squad/story-CoZXr2jU6tuuLMHO7cJqjK.html",
+"urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/12/12/Pictures/_deba46f8-3c2b-11eb-8fc8-15ab4209080e.jpg",
+"publishedAt": "2020-12-12T03:43:34Z",
+"content": "Opening batsman Marcus Harris has been called into Australia’s first test squad as the hosts count the cost of a number of injuries ahead of the first test against India in Adelaide.\r\nDavid Warner ha… [+1357 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hindustan Times"
+},
+"author": "hindustantimes.com | Edited by Poulomi Ghosh",
+"title": "Eluru mystery illness: Mercury found in rice, Jagan seeks counsel of medical experts - Hindustan Times",
+"description": "While a Vijayawada lab hinted at water contamination, AIIMS and Institute of Chemical Technology found food contamination.",
+"url": "https://www.hindustantimes.com/india-news/eluru-mystery-illness-mercury-found-in-rice-jagan-seeks-counsel-of-medical-experts/story-fkoKl1GoklpmGqWpmLe4jL.html",
+"urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/12/12/Pictures/eluru-mystery-illness_621846f4-3c2b-11eb-b180-736642f23257.jpg",
+"publishedAt": "2020-12-12T03:39:43Z",
+"content": "A week after the strange illness broke out in Andhra Pradesh’s Eluru which has so far killed one and sickened over 600 people, analysis carried out by various group of experts found several abnormali… [+2640 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "gizmochina"
+},
+"author": "https://www.facebook.com/zionsanvin",
+"title": "Samsung Galaxy S21 series new leak reveals names of accessories, new 30W fast charger - gizmochina",
+"description": "Samsung is likely to hold the Galaxy Unpacked 2021 event on Jan. 14 to unleash the Galaxy S21 series. Over a month ahead of the alleged launch event, Various sources have been leaking information on the Galaxy S21 5G, Galaxy S21+ 5G, and Galaxy S21 Ultra 5G s…",
+"url": "https://www.gizmochina.com/2020/12/12/samsung-galaxy-s21-series-new-leak-reveals-names-of-accessories-new-30w-fast-charger/",
+"urlToImage": "https://www.gizmochina.com/wp-content/uploads/2020/12/Samsung-Galaxy-S21-Ultra-5G-render.jpg",
+"publishedAt": "2020-12-12T03:04:00Z",
+"content": "Samsung is likely to hold the Galaxy Unpacked 2021 event on Jan. 14 to unleash the Galaxy S21 series. Over a month ahead of the alleged launch event, Various sources have been leaking information on … [+1594 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Moneycontrol"
+},
+"author": null,
+"title": "Stimulus uncertainty hems in Wall Street; Disney soars - Moneycontrol.com",
+"description": "The Dow Jones Industrial Average rose 47.11 points, or 0.16%, to close at 30,046.37, the S&P 500 lost 4.64 points, or 0.13%, to 3,663.46 and the Nasdaq Composite dropped 27.94 points, or 0.23%, to 12,377.87.",
+"url": "https://www.moneycontrol.com/news/business/markets/stimulus-uncertainty-hems-in-wall-street-disney-soars-6219091.html",
+"urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/09/wall-street-770x433.jpg",
+"publishedAt": "2020-12-12T02:39:00Z",
+"content": "The S&amp;P 500 and Nasdaq closed with modest declines on Friday, as uncertainty over fresh economic stimulus dented confidence, although strong gains from Walt Disney helped the Dow Industrials eke … [+3725 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Indian Express"
+},
+"author": "Harish Damodaran",
+"title": "Effect of new slaughter laws: cattle numbers fall in BJP-ruled states - The Indian Express",
+"description": "If the stated objective behind enacting an anti-slaughter legislation is “preservation of cattle”, that message is clearly not being heeded by farmers.",
+"url": "https://indianexpress.com/article/explained/effect-of-new-slaughter-laws-cattle-numbers-fall-in-bjp-ruled-states-7101473/",
+"urlToImage": "https://images.indianexpress.com/2020/12/cows-1.jpg",
+"publishedAt": "2020-12-12T01:53:21Z",
+"content": "Cows and buffalos set out to graze in Gujarat's Amreli. (Express Photo: Javed Raja, File)Karnataka has become the latest BJP-ruled state to put a stringent anti-cattle slaughter Bill in motion. On Fr… [+4250 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "TIMESOFINDIA.COM",
+"title": "Bigg Boss 14: Abhinav Shukla learns about Kavita Kaushik’s husband Ronnit calling him ‘alchoholic’; wife - Times of India",
+"description": "In the previous night episode of Bigg Boss 14, Vikas Gupta dropped some truth bombs on Abhinav Shukla regarding Ron",
+"url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-14-abhinav-shukla-learns-about-kavita-kaushiks-husband-ronnit-calling-him-alchoholic-wife-rubina-dilaik-says-i-wont-spare-them/articleshow/79686175.cms",
+"urlToImage": "https://static.toiimg.com/thumb/msid-79686145,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-631884/79686145.jpg",
+"publishedAt": "2020-12-12T01:30:00Z",
+"content": null
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "AFP",
+"title": "Car hits multiple protesters in New York, causing injuries - Times of India",
+"description": "US News: NEW YORK: A motorist struck about half a dozen people taking part in a protest in New York City on Friday, causing injuries but no deaths, police and .",
+"url": "https://timesofindia.indiatimes.com/world/us/car-hits-multiple-protesters-in-new-york-causing-injuries/articleshow/79689057.cms",
+"urlToImage": "https://static.toiimg.com/thumb/msid-79689063,width-1070,height-580,imgsize-183967,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+"publishedAt": "2020-12-12T00:47:00Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "NDTV News"
+},
+"author": null,
+"title": "US Supreme Court Dismisses Texas Suit Seeking To Overturn Trump Election Loss - NDTV",
+"description": "The US Supreme Court on Friday dismissed a bid by Texas to overturn the results of the presidential election, which Republican Donald Trump lost to Democrat Joe Biden, in a fresh setback for the president.",
+"url": "https://www.ndtv.com/world-news/us-supreme-court-dismisses-texas-suit-seeking-to-overturn-trump-election-loss-2337581",
+"urlToImage": "https://c.ndtvimg.com/2020-11/0l8o8vmg_trump-650x400_625x300_29_November_20.jpg",
+"publishedAt": "2020-12-12T00:04:14Z",
+"content": "The suit attempted to undo election results that Donald Trump lost to Joe Biden (File)\r\nWashington: The US Supreme Court on Friday dismissed a bid by Texas to overturn the results of the presidential… [+1726 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Swarajya"
+},
+"author": "Swarajya Staff",
+"title": "Make In India: Samsung To Relocate Its Mobile And IT Display Production Unit From China To Uttar Pradesh - Swarajya",
+"description": "The Samsung unit would make India the only third nation in the world to have such a unit.",
+"url": "https://swarajyamag.com/insta/make-in-india-samsung-to-relocate-its-mobile-and-it-display-production-unit-from-china-to-uttar-pradesh",
+"urlToImage": "https://images.assettype.com/swarajya%2F2018-09%2F0f81f253-6853-4bfe-b243-f06fb3f2bf11%2F6130358a_a1b8_42eb_9365_a1b131a7019a.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+"publishedAt": "2020-12-11T22:28:00Z",
+"content": "In a remarkable development under India's Make in India and Atmanirbhar Bharat programmes to attract investments into the manufacturing sector, electronics major Samsung is going to invest Rs 4,825 c… [+1073 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "TNN",
+"title": "Sonia, Manmohan to blame for 2014 poll rout: Pranab Mukherjee in memoirs - Times of India",
+"description": "India News: NEW DELHI: In the final part of his memoirs being published after his death, late former President and Congress leader Pranab Mukherjee may leave his .",
+"url": "https://timesofindia.indiatimes.com/india/sonia-manmohan-to-blame-for-2014-poll-rout-pranab-mukherjee-in-memoirs/articleshow/79688489.cms",
+"urlToImage": "https://static.toiimg.com/thumb/msid-79688490,width-1070,height-580,imgsize-181512,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+"publishedAt": "2020-12-11T22:24:00Z",
+"content": null
+}
+]
+}
